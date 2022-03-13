@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Oodysseass
+- 👀 I’m interested in software engineering and automation
+- 🌱 I’m currently learning react & js
+- 💞️ I’m looking to collaborate on any project inluding databases, ui developing & machine learning
+- 📫 You can contact me at o [dot] sofikitis [at] gmail [dot] com
